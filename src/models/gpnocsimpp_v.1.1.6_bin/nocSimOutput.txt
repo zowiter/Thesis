@@ -1,0 +1,592 @@
+Input Configuration: ......
+  network.Network	1
+  Asynchronous Flow
+  Number of IP	16
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  network.traffic.Flit Length(bits)	64
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	10
+  Number of Cycles	20000
+  Number of Warm_Up_Cycles	2000
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.16364499999999998
+  Throughput[Flits leaving network.unit.switches.Switch]	0.6002391666666668
+  Avg Packet Delay	91.21072212573611
+  Link Utilization	0.1527761041666667
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.0193339203125
+  Avg Packet Injection Rate	0.10713500000000001
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	0.004091124999999999
+  Input Buffer(network.unit.switches.Switch) Utilization	0.010247907552083333
+  Output Buffer(network.unit.node.Node) Utilization	0.073260421875
+  Output Buffer(network.unit.switches.Switch) Utilization	0.01874900651041667
+  Avg Hop Count	4.667062430187357
+  Avg Packet Sent/Run	2142.633333333333
+  Avg Packet Received/Run	2143.3
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  network.Network	1
+  Asynchronous Flow
+  Number of IP	16
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  network.traffic.Flit Length(bits)	55
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	10
+  Number of Cycles	10000
+  Number of Warm_Up_Cycles	1000
+  Traffic Type	1
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.03561875000000001
+  Throughput[Flits leaving network.unit.switches.Switch]	0.08068145833333333
+  Avg Packet Delay	995.4670621462093
+  Link Utilization	0.023656791666666663
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.31463145468750003
+  Avg Packet Injection Rate	0.10670999999999996
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	8.904687499999999E-4
+  Input Buffer(network.unit.switches.Switch) Utilization	0.38547302213541645
+  Output Buffer(network.unit.node.Node) Utilization	0.767177359375
+  Output Buffer(network.unit.switches.Switch) Utilization	0.20908865755208333
+  Avg Hop Count	3.15070754601741
+  Avg Packet Sent/Run	236.0
+  Avg Packet Received/Run	201.13333333333333
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  network.Network	3
+  Asynchronous Flow
+  Number of IP	16
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  network.traffic.Flit Length(bits)	55
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	10
+  Number of Cycles	10000
+  Number of Warm_Up_Cycles	1000
+  Traffic Type	1
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.19045333333333334
+  Throughput[Flits leaving network.unit.switches.Switch]	1.0466283333333333
+  Avg Packet Delay	85.00583645466818
+  Link Utilization	0.14573322916666667
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.016618570312500004
+  Avg Packet Injection Rate	0.10627333333333334
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	0.0047613333333333336
+  Input Buffer(network.unit.switches.Switch) Utilization	0.004417314236111111
+  Output Buffer(network.unit.node.Node) Utilization	0.09305607291666668
+  Output Buffer(network.unit.switches.Switch) Utilization	0.0072930711805555565
+  Avg Hop Count	3.0659485754937488
+  Avg Packet Sent/Run	1062.6333333333334
+  Avg Packet Received/Run	1061.2666666666667
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  network.Network	2
+  Synchronous Flow
+  Number of IP	100
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	100
+  network.traffic.Flit Length(bits)	64
+  Avg Msg Production Rate(cycle/msg)	20
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	2
+  Number of Cycles	300
+  Number of Warm_Up_Cycles	30
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.41939166666666666
+  Throughput[Flits leaving network.unit.switches.Switch]	2.616425
+  Avg Packet Delay	63.75009966576507
+  Link Utilization	0.5167166666666666
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.22265868055555554
+  Avg Packet Injection Rate	4.828333333333333
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	0.05242395833333333
+  Input Buffer(network.unit.switches.Switch) Utilization	0.220418125
+  Output Buffer(network.unit.node.Node) Utilization	0.376365625
+  Output Buffer(network.unit.switches.Switch) Utilization	0.22820479166666668
+  Avg Hop Count	6.886954097672385
+  Avg Packet Sent/Run	1356.25
+  Avg Packet Received/Run	1029.75
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  network.Network	2
+  Synchronous Flow
+  Number of IP	100
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	100
+  network.traffic.Flit Length(bits)	64
+  Avg Msg Production Rate(cycle/msg)	20
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	2
+  Number of Cycles	300
+  Number of Warm_Up_Cycles	30
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.4328416666666667
+  Throughput[Flits leaving network.unit.switches.Switch]	2.647491666666667
+  Avg Packet Delay	62.89296949111805
+  Link Utilization	0.5245402777777778
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.22608776041666667
+  Avg Packet Injection Rate	4.953333333333333
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	0.054105208333333335
+  Input Buffer(network.unit.switches.Switch) Utilization	0.22342166666666666
+  Output Buffer(network.unit.node.Node) Utilization	0.36863437499999996
+  Output Buffer(network.unit.switches.Switch) Utilization	0.23464104166666666
+  Avg Hop Count	6.854649089260584
+  Avg Packet Sent/Run	1419.0
+  Avg Packet Received/Run	1074.25
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  network.Network	2
+  Synchronous Flow
+  Number of IP	100
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	100
+  network.traffic.Flit Length(bits)	64
+  Avg Msg Production Rate(cycle/msg)	20
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	2
+  Number of Cycles	300
+  Number of Warm_Up_Cycles	30
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.42669166666666664
+  Throughput[Flits leaving network.unit.switches.Switch]	2.62735
+  Avg Packet Delay	62.101006821696025
+  Link Utilization	0.5208944444444444
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.22731553819444442
+  Avg Packet Injection Rate	5.0
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	0.05333645833333333
+  Input Buffer(network.unit.switches.Switch) Utilization	0.22539583333333335
+  Output Buffer(network.unit.node.Node) Utilization	0.36692916666666664
+  Output Buffer(network.unit.switches.Switch) Utilization	0.23610833333333334
+  Avg Hop Count	6.819870777217928
+  Avg Packet Sent/Run	1423.25
+  Avg Packet Received/Run	1041.5
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  network.Network	1
+  Asynchronous Flow
+  Number of IP	16
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  network.traffic.Flit Length(bits)	55
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	10
+  Number of Cycles	10000
+  Number of Warm_Up_Cycles	1000
+  Traffic Type	1
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.03582708333333333
+  Throughput[Flits leaving network.unit.switches.Switch]	0.07929416666666667
+  Avg Packet Delay	1049.9166385334086
+  Link Utilization	0.02343529166666667
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.31580293645833335
+  Avg Packet Injection Rate	0.10661333333333335
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	8.956770833333331E-4
+  Input Buffer(network.unit.switches.Switch) Utilization	0.3883767226562499
+  Output Buffer(network.unit.node.Node) Utilization	0.7651051197916667
+  Output Buffer(network.unit.switches.Switch) Utilization	0.20963041927083328
+  Avg Hop Count	3.1510646881383435
+  Avg Packet Sent/Run	232.46666666666667
+  Avg Packet Received/Run	199.33333333333334
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  network.Network	2
+  Asynchronous Flow
+  Number of IP	16
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  network.traffic.Flit Length(bits)	55
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	1
+  Number of Cycles	10000
+  Number of Warm_Up_Cycles	1000
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.19138416666666666
+  Throughput[Flits leaving network.unit.switches.Switch]	0.6117804166666667
+  Avg Packet Delay	130.07043206355777
+  Link Utilization	0.13385743055555555
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.06329807725694445
+  Avg Packet Injection Rate	0.10660333333333334
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	0.047846041666666665
+  Input Buffer(network.unit.switches.Switch) Utilization	0.05570010416666668
+  Output Buffer(network.unit.node.Node) Utilization	0.14376296874999997
+  Output Buffer(network.unit.switches.Switch) Utilization	0.05789347916666667
+  Avg Hop Count	4.1943091920004925
+  Avg Packet Sent/Run	1065.9666666666667
+  Avg Packet Received/Run	1066.8333333333333
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  network.Network	2
+  Asynchronous Flow
+  Number of IP	16
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  network.traffic.Flit Length(bits)	55
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	1
+  Number of Cycles	1000
+  Number of Warm_Up_Cycles	100
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.17065833333333336
+  Throughput[Flits leaving network.unit.switches.Switch]	0.5526145833333335
+  Avg Packet Delay	102.1723325915537
+  Link Utilization	0.12070659722222223
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.05606219618055555
+  Avg Packet Injection Rate	0.10473333333333337
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	0.04266458333333334
+  Input Buffer(network.unit.switches.Switch) Utilization	0.050294479166666656
+  Output Buffer(network.unit.node.Node) Utilization	0.11916614583333335
+  Output Buffer(network.unit.switches.Switch) Utilization	0.05188864583333334
+  Avg Hop Count	4.188743355170636
+  Avg Packet Sent/Run	104.53333333333333
+  Avg Packet Received/Run	98.86666666666666
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  network.Network	1
+  Asynchronous Flow
+  Number of IP	16
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  network.traffic.Flit Length(bits)	55
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	1
+  Number of Cycles	1000
+  Number of Warm_Up_Cycles	100
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.17980416666666665
+  Throughput[Flits leaving network.unit.switches.Switch]	0.6545020833333333
+  Avg Packet Delay	104.57559519924573
+  Link Utilization	0.1671695833333333
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.06967312500000002
+  Avg Packet Injection Rate	0.10713333333333336
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	0.04495104166666666
+  Input Buffer(network.unit.switches.Switch) Utilization	0.06503789062500001
+  Output Buffer(network.unit.node.Node) Utilization	0.120171875
+  Output Buffer(network.unit.switches.Switch) Utilization	0.06786419270833334
+  Avg Hop Count	4.6281315304031505
+  Avg Packet Sent/Run	106.96666666666667
+  Avg Packet Received/Run	99.73333333333333
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  network.Network	1
+  Synchronous Flow
+  Number of IP	16
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  network.traffic.Flit Length(bits)	55
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	1
+  Number of Cycles	1000
+  Number of Warm_Up_Cycles	100
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.18352083333333333
+  Throughput[Flits leaving network.unit.switches.Switch]	0.6767062500000001
+  Avg Packet Delay	67.57897138251877
+  Link Utilization	0.17213541666666668
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.047885208333333346
+  Avg Packet Injection Rate	0.1066666666666667
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	0.04588020833333333
+  Input Buffer(network.unit.switches.Switch) Utilization	0.04679713541666666
+  Output Buffer(network.unit.node.Node) Utilization	0.056647395833333336
+  Output Buffer(network.unit.switches.Switch) Utilization	0.047283984375000004
+  Avg Hop Count	4.659493152577409
+  Avg Packet Sent/Run	106.66666666666667
+  Avg Packet Received/Run	104.53333333333333
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  network.Network	1
+  Asynchronous Flow
+  Number of IP	16
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  network.traffic.Flit Length(bits)	55
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	1
+  Number of Cycles	1000
+  Number of Warm_Up_Cycles	100
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.1879020833333333
+  Throughput[Flits leaving network.unit.switches.Switch]	0.6938979166666664
+  Avg Packet Delay	108.27045832881448
+  Link Utilization	0.1766620833333333
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.07890598958333334
+  Avg Packet Injection Rate	0.10910000000000002
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	0.046975520833333326
+  Input Buffer(network.unit.switches.Switch) Utilization	0.07506354166666666
+  Output Buffer(network.unit.node.Node) Utilization	0.12864010416666666
+  Output Buffer(network.unit.switches.Switch) Utilization	0.07829752604166666
+  Avg Hop Count	4.680231685778328
+  Avg Packet Sent/Run	108.66666666666667
+  Avg Packet Received/Run	100.93333333333334
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  network.Network	2
+  Asynchronous Flow
+  Number of IP	16
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  network.traffic.Flit Length(bits)	55
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	1
+  Number of Cycles	1000
+  Number of Warm_Up_Cycles	100
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.17811250000000003
+  Throughput[Flits leaving network.unit.switches.Switch]	0.5738958333333334
+  Avg Packet Delay	103.42935248100967
+  Link Utilization	0.12555069444444442
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.05346762152777776
+  Avg Packet Injection Rate	0.10676666666666669
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	0.04452812500000001
+  Input Buffer(network.unit.switches.Switch) Utilization	0.04674260416666667
+  Output Buffer(network.unit.node.Node) Utilization	0.12008437500000002
+  Output Buffer(network.unit.switches.Switch) Utilization	0.04865718750000001
+  Avg Hop Count	4.215705798871508
+  Avg Packet Sent/Run	106.46666666666667
+  Avg Packet Received/Run	99.53333333333333
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  network.Network	2
+  Asynchronous Flow
+  Number of IP	16
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  network.traffic.Flit Length(bits)	55
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	1
+  Number of Cycles	1000
+  Number of Warm_Up_Cycles	100
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.18576666666666672
+  Throughput[Flits leaving network.unit.switches.Switch]	0.5941875000000001
+  Avg Packet Delay	104.35885543084247
+  Link Utilization	0.13019652777777774
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.057213151041666674
+  Avg Packet Injection Rate	0.1094333333333334
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	0.04644166666666668
+  Input Buffer(network.unit.switches.Switch) Utilization	0.05025166666666666
+  Output Buffer(network.unit.node.Node) Utilization	0.1266359375
+  Output Buffer(network.unit.switches.Switch) Utilization	0.052444374999999994
+  Avg Hop Count	4.209346213613568
+  Avg Packet Sent/Run	109.26666666666667
+  Avg Packet Received/Run	102.33333333333333
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  network.Network	1
+  Synchronous Flow
+  Number of IP	30
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	10
+  network.traffic.Flit Length(bits)	55
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	2
+  Number of Cycles	1000
+  Number of Warm_Up_Cycles	100
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.014912222222222223
+  Throughput[Flits leaving network.unit.switches.Switch]	0.06953999999999999
+  Avg Packet Delay	12.662631596890117
+  Link Utilization	0.01604472573839662
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.0020173259493670883
+  Avg Packet Injection Rate	0.19899999999999998
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	0.0018640277777777778
+  Input Buffer(network.unit.switches.Switch) Utilization	0.0020419921875
+  Output Buffer(network.unit.node.Node) Utilization	0.0018886111111111115
+  Output Buffer(network.unit.switches.Switch) Utilization	0.002058756510416667
+  Avg Hop Count	5.6568832385504
+  Avg Packet Sent/Run	199.0
+  Avg Packet Received/Run	198.16666666666666
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  network.Network	1
+  Synchronous Flow
+  Number of IP	30
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	10
+  network.traffic.Flit Length(bits)	55
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of network.traffic.Flit/Buffer	2
+  Number of Cycles	1000
+  Number of Warm_Up_Cycles	100
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.014974444444444445
+  Throughput[Flits leaving network.unit.switches.Switch]	0.06976666666666669
+  Avg Packet Delay	12.639149529083546
+  Link Utilization	0.016088185654008443
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.002019396097046413
+  Avg Packet Injection Rate	0.2001666666666667
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	0.0018718055555555556
+  Input Buffer(network.unit.switches.Switch) Utilization	0.002045084635416667
+  Output Buffer(network.unit.node.Node) Utilization	0.0018859722222222223
+  Output Buffer(network.unit.switches.Switch) Utilization	0.0020595703124999996
+  Avg Hop Count	5.6593464705835865
+  Avg Packet Sent/Run	200.16666666666666
+  Avg Packet Received/Run	200.26666666666668
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+

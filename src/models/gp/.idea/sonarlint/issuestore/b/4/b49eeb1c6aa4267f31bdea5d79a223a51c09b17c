@@ -1,0 +1,488 @@
+
+~
+java:S3008¬"[Rename this field "CURRENT_VC_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ°™úÿÿÿÿ8¼Ä™á©/
+x
+java:S1104·"UMake NUM_CYCLE a static final constant or non-public and provide accessors if needed.(àş³ëøÿÿÿÿ8¼Ä™á©/
+Q
+java:S1444î".Make this "public static OCTAL_RC" field final(øÛùŞùÿÿÿÿ8¼Ä™á©/
+P
+java:S1444E".Make this "public static MESH_ROW" field final(÷®å×ÿÿÿÿÿ8¼Ä™á©/
+v
+java:S1104*"TMake OUT_FILE a static final constant or non-public and provide accessors if needed.(×µ…¶üÿÿÿÿ8¼Ä™á©/
+x
+java:S1104%"VMake PARAM_FILE a static final constant or non-public and provide accessors if needed.(¸©Éúúÿÿÿÿ8¼Ä™á©/
+x
+java:S3008"VRename this field "WK_ADJ_NODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ş‚£ıÿÿÿÿ8¼Ä™á©/
+p
+java:S1104¼"SMake NUM_RUN a static final constant or non-public and provide accessors if needed.(ÂÉÎa8¼Ä™á©/
+~
+java:S1104¸"`Make FIXED_MESSAGE_LENGTH a static final constant or non-public and provide accessors if needed.(†ãÿ8¼Ä™á©/
+
+java:S1104ß"^Make OCTAL_SWITCH_MID_2 a static final constant or non-public and provide accessors if needed.(¾Íë›ùÿÿÿÿ8¼Ä™á©/
+z
+java:S3008["XRename this field "MESH_ADJ_NODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(««Íâıÿÿÿÿ8¼Ä™á©/
+‚
+java:S1104ç"_Make OCTAL_NODE_BITS_REQ a static final constant or non-public and provide accessors if needed.(™åú—ùÿÿÿÿ8¼Ä™á©/
+T
+java:S1444Ğ"1Make this "public static BOTTOM_NODE" field final(ì‰¡øøÿÿÿÿ8¼Ä™á©/
+M
+java:S1444•"/Make this "public static CUR_CYCLE" field final(ª”Ñ«8¼Ä™á©/
+{
+java:S1104Æ"]Make FAT_NUM_ADJ_CHILD a static final constant or non-public and provide accessors if needed.(Òƒ×â8¼Ä™á©/
+W
+java:S1444Ğ"9Make this "public static FAT_NUM_ADJ_SIBLING" field final(·²ğ‘8¼Ä™á©/
+s
+java:S3008Î"URename this field "RIGHT_NODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÿ§Ò8¼Ä™á©/
+z
+java:S1104Û"\Make OCTAL_MID_NODE_2 a static final constant or non-public and provide accessors if needed.(õ°‘Ò8¼Ä™á©/
+w
+java:S3008%"URename this field "PARAM_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸©Éúúÿÿÿÿ8¼Ä™á©/
+€
+java:S1104‰"]Make AVG_INTER_ARRIVAL a static final constant or non-public and provide accessors if needed.(Øœş¤ùÿÿÿÿ8¼Ä™á©/
+q
+java:S30089"TRename this field "DATA_FLIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®àÂ÷8¼Ä™á©/
+v
+java:S3008î"SRename this field "OCTAL_RC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÛùŞùÿÿÿÿ8¼Ä™á©/
+@
+java:S2386î"Make this member "protected".(øÛùŞùÿÿÿÿ8¼Ä™á©/
+v
+java:S1104€"YMake NUM_ADDR_BITS a static final constant or non-public and provide accessors if needed.(ÿÀ‹%8¼Ä™á©/
+v
+java:S1104…"YMake NUM_VCID_BITS a static final constant or non-public and provide accessors if needed.(™¬Ó68¼Ä™á©/
+|
+java:S3008Ğ"^Rename this field "FAT_NUM_ADJ_SIBLING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·²ğ‘8¼Ä™á©/
+M
+java:S1444"+Make this "public static DEBUG" field final(îéÒ¡ÿÿÿÿÿ8¼Ä™á©/
+v
+java:S1104ı"YMake WARM_UP_CYCLE a static final constant or non-public and provide accessors if needed.(şø#8¼Ä™á©/
+
+java:S1104ë"cMake OCTAL_UNIT_COL_BITS_REQ a static final constant or non-public and provide accessors if needed.(Ò™™¢8¼Ä™á©/
+}
+java:S1104"[Make ADJACENT_TRAFIC a static final constant or non-public and provide accessors if needed.(¶«şŒúÿÿÿÿ8¼Ä™á©/
+x
+java:S30084"VRename this field "HEADER_FLIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úñìşÿÿÿÿ8¼Ä™á©/
+u
+java:S3008V"XRename this field "MESH_COL_BITS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¶ïÜ8¼Ä™á©/
+}
+java:S3008¸"_Rename this field "FIXED_MESSAGE_LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ãÿ8¼Ä™á©/
+y
+java:S3008Û"[Rename this field "OCTAL_MID_NODE_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ°‘Ò8¼Ä™á©/
+
+java:S1104İ"^Make OCTAL_SWITCH_MID_1 a static final constant or non-public and provide accessors if needed.(êŠ‰ıÿÿÿÿ8¼Ä™á©/
+}
+java:S1104á"ZMake OCTAL_ADJ_NODE a static final constant or non-public and provide accessors if needed.(„ê—àıÿÿÿÿ8¼Ä™á©/
+R
+java:S1444í"/Make this "public static NET_TORUS" field final(Õ¥«Åûÿÿÿÿ8¼Ä™á©/
+[
+java:S1444œ"8Make this "public static MAX_MESSAGE_NUMBER" field final(¹‘Öüÿÿÿÿ8¼Ä™á©/
+s
+java:S1104"QMake DEBUG a static final constant or non-public and provide accessors if needed.(îéÒ¡ÿÿÿÿÿ8¼Ä™á©/
+R
+java:S1444×"4Make this "public static FAT_NUM_SWITCH" field final(ï£ğü8¼Ä™á©/
+m
+java:S1104"PMake WK_W a static final constant or non-public and provide accessors if needed.(ıæáñ8¼Ä™á©/
+
+java:S3008¿"\Rename this field "FAT_NUM_INDEX_BIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ø‡øÿÿÿÿ8¼Ä™á©/
+\
+java:S1444×"9Make this "public static OCTAL_NUM_ADDR_BITS" field final(ô†½İùÿÿÿÿ8¼Ä™á©/
+y
+java:S3008¡"[Rename this field "DEFAULT_VC_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ê¦‚8¼Ä™á©/
+€
+java:S3008é"bRename this field "OCTAL_UNIT_ROW_BITS_REQ" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ûëò8¼Ä™á©/
+|
+java:S1104"^Make NUM_FLIT_TYPE_BITS a static final constant or non-public and provide accessors if needed.(Îê¸Œ8¼Ä™á©/
+
+java:S1104"^Make AVG_MESSAGE_LENGTH a static final constant or non-public and provide accessors if needed.(œªîŞûÿÿÿÿ8¼Ä™á©/
+£
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³Ş™¯øÿÿÿÿ8¼Ä™á©/
+w
+java:S3008‹"YRename this field "NUM_FLITS_BITS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¿ú8¼Ä™á©/
+c
+java:S1444Õ"EMake this "public static OCTAL_LOCAL_TRAFFIC_PROBABILITY" field final(¨ùö8¼Ä™á©/
+W
+java:S1444"5Make this "public static ADJACENT_TRAFIC" field final(¶«şŒúÿÿÿÿ8¼Ä™á©/
+€
+java:S3008"]Rename this field "AVG_MESSAGE_LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œªîŞûÿÿÿÿ8¼Ä™á©/
+
+java:S1104¢"^Make CURRENT_ADJ_SWITCH a static final constant or non-public and provide accessors if needed.(Î›ÍĞıÿÿÿÿ8¼Ä™á©/
+W
+java:S1444á"4Make this "public static OCTAL_ADJ_NODE" field final(„ê—àıÿÿÿÿ8¼Ä™á©/
+U
+java:S1444["3Make this "public static MESH_ADJ_NODE" field final(««Íâıÿÿÿÿ8¼Ä™á©/
+R
+java:S1444/"0Make this "public static TRACE_FILE" field final(ƒ‰¯Èùÿÿÿÿ8¼Ä™á©/
+Q
+java:S1444²"3Make this "public static TRAFFIC_LOCAL" field final(Ü©ê8¼Ä™á©/
+
+java:S1104Ù"\Make OCTAL_MID_NODE_1 a static final constant or non-public and provide accessors if needed.(—ı·¾ûÿÿÿÿ8¼Ä™á©/
+v
+java:S1104Ç"XMake ASYNCHRONOUS a static final constant or non-public and provide accessors if needed.(Èí’ª8¼Ä™á©/
+w
+java:S1104Ì"TMake TOP_NODE a static final constant or non-public and provide accessors if needed.(şí–æøÿÿÿÿ8¼Ä™á©/
+|
+java:S1104§"^Make CURRENT_LINK_COUNT a static final constant or non-public and provide accessors if needed.(„äóƒ8¼Ä™á©/
+I
+java:S1444Á"+Make this "public static TRACE" field final(˜™µñ8¼Ä™á©/
+P
+java:S1444{"3Make this "public static SWITCH_BOTTOM" field final(Ç£è8¼Ä™á©/
+y
+java:S3008„"VRename this field "CURRENT_NET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒîÂıÿÿÿÿ8¼Ä™á©/
+Q
+java:S1444Ì".Make this "public static TOP_NODE" field final(şí–æøÿÿÿÿ8¼Ä™á©/
+S
+java:S1444"1Make this "public static WK_ADJ_NODE" field final(¤Ş‚£ıÿÿÿÿ8¼Ä™á©/
+{
+java:S3008"]Rename this field "NUM_FLIT_TYPE_BITS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îê¸Œ8¼Ä™á©/
+w
+java:S3008×"YRename this field "FAT_NUM_SWITCH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï£ğü8¼Ä™á©/
+|
+java:S1104Ë"^Make FAT_NUM_ADJ_PARENT a static final constant or non-public and provide accessors if needed.(ÕªÛ8¼Ä™á©/
+R
+java:S1444‹"4Make this "public static NUM_FLITS_BITS" field final(š¿ú8¼Ä™á©/
+w
+java:S3008·"TRename this field "NUM_CYCLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àş³ëøÿÿÿÿ8¼Ä™á©/
+o
+java:S3008¼"RRename this field "NUM_RUN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÉÎa8¼Ä™á©/
+W
+java:S1444±"9Make this "public static NUM_FLIT_PER_BUFFER" field final(×’Ã8¼Ä™á©/
+v
+java:S1104{"YMake SWITCH_BOTTOM a static final constant or non-public and provide accessors if needed.(Ç£è8¼Ä™á©/
+S
+java:S14444"1Make this "public static HEADER_FLIT" field final(úñìşÿÿÿÿ8¼Ä™á©/
+Z
+java:S1444¿"7Make this "public static FAT_NUM_INDEX_BIT" field final(÷ø‡øÿÿÿÿ8¼Ä™á©/
+[
+java:S1444İ"8Make this "public static OCTAL_SWITCH_MID_1" field final(êŠ‰ıÿÿÿÿ8¼Ä™á©/
+u
+java:S3008Ç"WRename this field "ASYNCHRONOUS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èí’ª8¼Ä™á©/
+Y
+java:S1444¬"6Make this "public static CURRENT_VC_COUNT" field final(ƒ°™úÿÿÿÿ8¼Ä™á©/
+Y	java:S125—"<This block of commented-out lines of code should be removed.(À¥œŒ8¼Ä™á©/
+[
+java:S1197î"8Move the array designator from the variable to the type.(øÛùŞùÿÿÿÿ8¼Ä™á©/
+X	java:S125í"<This block of commented-out lines of code should be removed.(´×y8¼Ä™á©/
+z
+java:S1104„"WMake CURRENT_NET a static final constant or non-public and provide accessors if needed.(ÒîÂıÿÿÿÿ8¼Ä™á©/
+€
+java:S3008¢"]Rename this field "CURRENT_ADJ_SWITCH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î›ÍĞıÿÿÿÿ8¼Ä™á©/
+x
+java:S1104×"ZMake FAT_NUM_SWITCH a static final constant or non-public and provide accessors if needed.(ï£ğü8¼Ä™á©/
+P
+java:S1444€"3Make this "public static NUM_ADDR_BITS" field final(ÿÀ‹%8¼Ä™á©/
+s
+java:S1104q"VMake SWITCH_TOP a static final constant or non-public and provide accessors if needed.(ÀÏíî8¼Ä™á©/
+U
+java:S1444¨"2Make this "public static TRAFFIC_TYPE" field final(µãıÿÿÿÿ8¼Ä™á©/
+u
+java:S3008J"SRename this field "MESH_COL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÆùÛúÿÿÿÿ8¼Ä™á©/
+u
+java:S3008{"XRename this field "SWITCH_BOTTOM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç£è8¼Ä™á©/
+z
+java:S3008¨"WRename this field "TRAFFIC_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µãıÿÿÿÿ8¼Ä™á©/
+€
+java:S1104¿"]Make FAT_NUM_INDEX_BIT a static final constant or non-public and provide accessors if needed.(÷ø‡øÿÿÿÿ8¼Ä™á©/
+T
+java:S1444"6Make this "public static NUMBER_OF_SWITCH" field final(˜‘òÎ8¼Ä™á©/
+u
+java:S3008P"XRename this field "MESH_ROW_BITS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š–”Ï8¼Ä™á©/
+r
+java:S3008•"TRename this field "CUR_CYCLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª”Ñ«8¼Ä™á©/
+Q
+java:S1444ã"4Make this "public static OCTAL_UNIT_ROW" field final(ˆªñ8¼Ä™á©/
+R
+java:S1444·"/Make this "public static NUM_CYCLE" field final(àş³ëøÿÿÿÿ8¼Ä™á©/
+z
+java:S1104İ"]Make FAT_NUM_ADDR_BITS a static final constant or non-public and provide accessors if needed.(ú¹”Q8¼Ä™á©/
+{
+java:S1104ã"XMake NET_FAT_TREE a static final constant or non-public and provide accessors if needed.(ƒ˜Ğáøÿÿÿÿ8¼Ä™á©/
+w
+java:S3008ñ"TRename this field "OCTAL_ADJ" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¸Ò‘şÿÿÿÿ8¼Ä™á©/
+[
+java:S1444¢"8Make this "public static CURRENT_ADJ_SWITCH" field final(Î›ÍĞıÿÿÿÿ8¼Ä™á©/
+\
+java:S1444ç"9Make this "public static OCTAL_NODE_BITS_REQ" field final(™åú—ùÿÿÿÿ8¼Ä™á©/
+v
+java:S1104V"YMake MESH_COL_BITS a static final constant or non-public and provide accessors if needed.(à¶ïÜ8¼Ä™á©/
+?
+java:S1118 "Hide this public constructor.(³Ş™¯øÿÿÿÿ8¼Ä™á©/
+P
+java:S1444ı"3Make this "public static WARM_UP_CYCLE" field final(şø#8¼Ä™á©/
+R
+java:S1444ñ"/Make this "public static OCTAL_ADJ" field final(é¸Ò‘şÿÿÿÿ8¼Ä™á©/
+t
+java:S1104Î"VMake RIGHT_NODE a static final constant or non-public and provide accessors if needed.(îÿ§Ò8¼Ä™á©/
+J
+java:S1444¼"-Make this "public static NUM_RUN" field final(ÂÉÎa8¼Ä™á©/
+v
+java:S1104E"TMake MESH_ROW a static final constant or non-public and provide accessors if needed.(÷®å×ÿÿÿÿÿ8¼Ä™á©/
+~
+java:S1104­"[Make TRAFFIC_UNIFORM a static final constant or non-public and provide accessors if needed.(‰¶â‡øÿÿÿÿ8¼Ä™á©/
+€
+java:S3008ß"]Rename this field "OCTAL_SWITCH_MID_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Íë›ùÿÿÿÿ8¼Ä™á©/
+P
+java:S1444…"3Make this "public static NUM_VCID_BITS" field final(™¬Ó68¼Ä™á©/
+X
+java:S1444¸":Make this "public static FIXED_MESSAGE_LENGTH" field final(†ãÿ8¼Ä™á©/
+s
+java:S3008l"VRename this field "SWITCH_LEFT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğçë±8¼Ä™á©/
+T
+java:S1444„"1Make this "public static CURRENT_NET" field final(ÒîÂıÿÿÿÿ8¼Ä™á©/
+v
+java:S3008Ì"SRename this field "TOP_NODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şí–æøÿÿÿÿ8¼Ä™á©/
+w
+java:S3008/"URename this field "TRACE_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ‰¯Èùÿÿÿÿ8¼Ä™á©/
+u
+java:S3008ı"XRename this field "WARM_UP_CYCLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şø#8¼Ä™á©/
+s
+java:S1104•"UMake CUR_CYCLE a static final constant or non-public and provide accessors if needed.(ª”Ñ«8¼Ä™á©/
+G
+java:S1444"*Make this "public static WK_W" field final(ıæáñ8¼Ä™á©/
+t
+java:S1104l"WMake SWITCH_LEFT a static final constant or non-public and provide accessors if needed.(Ğçë±8¼Ä™á©/
+v
+java:S1104P"YMake MESH_ROW_BITS a static final constant or non-public and provide accessors if needed.(š–”Ï8¼Ä™á©/
+q
+java:S3008è"SRename this field "NET_MESH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª²¬8¼Ä™á©/
+V
+java:S1444Ë"8Make this "public static FAT_NUM_ADJ_PARENT" field final(ÕªÛ8¼Ä™á©/
+r
+java:S3008"PRename this field "DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îéÒ¡ÿÿÿÿÿ8¼Ä™á©/
+[
+java:S1444ë"=Make this "public static OCTAL_UNIT_COL_BITS_REQ" field final(Ò™™¢8¼Ä™á©/
+Z
+java:S1444‰"7Make this "public static AVG_INTER_ARRIVAL" field final(Øœş¤ùÿÿÿÿ8¼Ä™á©/
+v
+java:S1104J"TMake MESH_COL a static final constant or non-public and provide accessors if needed.(ÌÆùÛúÿÿÿÿ8¼Ä™á©/
+N
+java:S1444l"1Make this "public static SWITCH_LEFT" field final(Ğçë±8¼Ä™á©/
+P
+java:S1444Ç"2Make this "public static ASYNCHRONOUS" field final(Èí’ª8¼Ä™á©/
+M
+java:S1444÷"/Make this "public static NET_OCTAL" field final(ú‚ï8¼Ä™á©/
+
+java:S1104¬"\Make CURRENT_VC_COUNT a static final constant or non-public and provide accessors if needed.(ƒ°™úÿÿÿÿ8¼Ä™á©/
+€
+java:S3008İ"]Rename this field "OCTAL_SWITCH_MID_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êŠ‰ıÿÿÿÿ8¼Ä™á©/
+r
+java:S11049"UMake DATA_FLIT a static final constant or non-public and provide accessors if needed.(®àÂ÷8¼Ä™á©/
+€
+java:S3008ë"bRename this field "OCTAL_UNIT_COL_BITS_REQ" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò™™¢8¼Ä™á©/
+s
+java:S3008v"WRename this field "SWITCH_RIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²£ØV8¼Ä™á©/
+V
+java:S1444§"8Make this "public static CURRENT_LINK_COUNT" field final(„äóƒ8¼Ä™á©/
+V
+java:S1444"8Make this "public static NUM_FLIT_TYPE_BITS" field final(Îê¸Œ8¼Ä™á©/
+X
+java:S1444­"5Make this "public static TRAFFIC_UNIFORM" field final(‰¶â‡øÿÿÿÿ8¼Ä™á©/
+w
+java:S3008í"TRename this field "NET_TORUS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¥«Åûÿÿÿÿ8¼Ä™á©/
+u
+java:S3008*"SRename this field "OUT_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×µ…¶üÿÿÿÿ8¼Ä™á©/
+N
+java:S1444Î"0Make this "public static RIGHT_NODE" field final(îÿ§Ò8¼Ä™á©/
+K
+java:S1444f".Make this "public static INT_SIZE" field final(‹Ğ®¥8¼Ä™á©/
+{
+java:S1104¨"XMake TRAFFIC_TYPE a static final constant or non-public and provide accessors if needed.(µãıÿÿÿÿ8¼Ä™á©/
+^	java:S125Ô"<This block of commented-out lines of code should be removed.(æÄ“Êıÿÿÿÿ8¼Ä™á©/
+R
+java:S1444Ê"/Make this "public static LEFT_NODE" field final(©ÿøÉúÿÿÿÿ8¼Ä™á©/
+r
+java:S3008q"URename this field "SWITCH_TOP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÏíî8¼Ä™á©/
+q
+java:S1104f"TMake INT_SIZE a static final constant or non-public and provide accessors if needed.(‹Ğ®¥8¼Ä™á©/
+m
+java:S1104"PMake WK_L a static final constant or non-public and provide accessors if needed.(™ÖıŠ8¼Ä™á©/
+P
+java:S1444J".Make this "public static MESH_COL" field final(ÌÆùÛúÿÿÿÿ8¼Ä™á©/
+{
+java:S3008§"]Rename this field "CURRENT_LINK_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„äóƒ8¼Ä™á©/
+}
+java:S1104Ğ"_Make FAT_NUM_ADJ_SIBLING a static final constant or non-public and provide accessors if needed.(·²ğ‘8¼Ä™á©/
+T
+java:S1444¡"6Make this "public static DEFAULT_VC_COUNT" field final(¶Ê¦‚8¼Ä™á©/
+H
+java:S1444",Make this "public static NET_WK" field final(«Ó“D8¼Ä™á©/
+[
+java:S1444é"=Make this "public static OCTAL_UNIT_ROW_BITS_REQ" field final( ûëò8¼Ä™á©/
+U
+java:S1444ã"2Make this "public static NET_FAT_TREE" field final(ƒ˜Ğáøÿÿÿÿ8¼Ä™á©/
+l
+java:S3008"ORename this field "WK_W" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıæáñ8¼Ä™á©/
+u
+java:S3008…"XRename this field "NUM_VCID_BITS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¬Ó68¼Ä™á©/
+x
+java:S1104/"VMake TRACE_FILE a static final constant or non-public and provide accessors if needed.(ƒ‰¯Èùÿÿÿÿ8¼Ä™á©/
+{
+java:S3008Ë"]Rename this field "FAT_NUM_ADJ_PARENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕªÛ8¼Ä™á©/
+L
+java:S1444è".Make this "public static NET_MESH" field final(ª²¬8¼Ä™á©/
+o
+java:S1104Á"QMake TRACE a static final constant or non-public and provide accessors if needed.(˜™µñ8¼Ä™á©/
+
+java:S3008˜"\Rename this field "NUMBER_OF_IP_NODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÔÏàùÿÿÿÿ8¼Ä™á©/
+v
+java:S3008ã"YRename this field "OCTAL_UNIT_ROW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆªñ8¼Ä™á©/
+
+java:S1104œ"^Make MAX_MESSAGE_NUMBER a static final constant or non-public and provide accessors if needed.(¹‘Öüÿÿÿÿ8¼Ä™á©/
+T
+java:S1444İ"7Make this "public static FAT_NUM_ADDR_BITS" field final(ú¹”Q8¼Ä™á©/
+Y	java:S125Ò"<This block of commented-out lines of code should be removed.(×Òü½8¼Ä™á©/
+P
+java:S1444P"3Make this "public static MESH_ROW_BITS" field final(š–”Ï8¼Ä™á©/
+~
+java:S3008Ù"[Rename this field "OCTAL_MID_NODE_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ı·¾ûÿÿÿÿ8¼Ä™á©/
+z
+java:S1104"\Make NUMBER_OF_SWITCH a static final constant or non-public and provide accessors if needed.(˜‘òÎ8¼Ä™á©/
+y
+java:S3008Ğ"VRename this field "BOTTOM_NODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì‰¡øøÿÿÿÿ8¼Ä™á©/
+N
+java:S1444v"2Make this "public static SWITCH_RIGHT" field final(²£ØV8¼Ä™á©/
+l
+java:S3008"ORename this field "WK_L" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÖıŠ8¼Ä™á©/
+}
+java:S3008­"ZRename this field "TRAFFIC_UNIFORM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¶â‡øÿÿÿÿ8¼Ä™á©/
+n
+java:S1104"RMake NET_WK a static final constant or non-public and provide accessors if needed.(«Ó“D8¼Ä™á©/
+|
+java:S3008á"YRename this field "OCTAL_ADJ_NODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ê—àıÿÿÿÿ8¼Ä™á©/
+t
+java:S1104v"XMake SWITCH_RIGHT a static final constant or non-public and provide accessors if needed.(²£ØV8¼Ä™á©/
+z
+java:S1104“"WMake FLIT_LENGTH a static final constant or non-public and provide accessors if needed.(Ïïí‰ûÿÿÿÿ8¼Ä™á©/
+
+java:S3008ç"^Rename this field "OCTAL_NODE_BITS_REQ" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™åú—ùÿÿÿÿ8¼Ä™á©/
+W
+java:S1444å"4Make this "public static OCTAL_UNIT_COL" field final(é……Õşÿÿÿÿ8¼Ä™á©/
+M
+java:S1444q"0Make this "public static SWITCH_TOP" field final(ÀÏíî8¼Ä™á©/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”à¡úÿÿÿÿ8¼Ä™á©/
+S
+java:S1444ò"5Make this "public static NET_EX_FAT_TREE" field final(ì½›Ö8¼Ä™á©/
+[
+java:S1197ñ"8Move the array designator from the variable to the type.(é¸Ò‘şÿÿÿÿ8¼Ä™á©/
+v
+java:S3008>"TRename this field "NULL_FLIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¿ÁÛüÿÿÿÿ8¼Ä™á©/
+G
+java:S1444"*Make this "public static WK_L" field final(™ÖıŠ8¼Ä™á©/
+€
+java:S1104a"^Make MESH_NODE_BITS_REQ a static final constant or non-public and provide accessors if needed.(è©×Àşÿÿÿÿ8¼Ä™á©/
+n
+java:S3008Á"PRename this field "TRACE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜™µñ8¼Ä™á©/
+}
+java:S1104±"_Make NUM_FLIT_PER_BUFFER a static final constant or non-public and provide accessors if needed.(×’Ã8¼Ä™á©/
+w
+java:S1104>"UMake NULL_FLIT a static final constant or non-public and provide accessors if needed.(ä¿ÁÛüÿÿÿÿ8¼Ä™á©/
+Z
+java:S1444a"8Make this "public static MESH_NODE_BITS_REQ" field final(è©×Àşÿÿÿÿ8¼Ä™á©/
+x
+java:S1104‹"ZMake NUM_FLITS_BITS a static final constant or non-public and provide accessors if needed.(š¿ú8¼Ä™á©/
+
+java:S3008a"]Rename this field "MESH_NODE_BITS_REQ" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è©×Àşÿÿÿÿ8¼Ä™á©/
+|
+java:S3008"ZRename this field "ADJACENT_TRAFIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶«şŒúÿÿÿÿ8¼Ä™á©/
+r
+java:S3008÷"TRename this field "NET_OCTAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú‚ï8¼Ä™á©/
+€
+java:S1104˜"]Make NUMBER_OF_IP_NODE a static final constant or non-public and provide accessors if needed.(ÄÔÏàùÿÿÿÿ8¼Ä™á©/
+x
+java:S3008ò"ZRename this field "NET_EX_FAT_TREE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì½›Ö8¼Ä™á©/
+x
+java:S1104í"UMake NET_TORUS a static final constant or non-public and provide accessors if needed.(Õ¥«Åûÿÿÿÿ8¼Ä™á©/
+w
+java:S1104î"TMake OCTAL_RC a static final constant or non-public and provide accessors if needed.(øÛùŞùÿÿÿÿ8¼Ä™á©/
+|
+java:S3008å"YRename this field "OCTAL_UNIT_COL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é……Õşÿÿÿÿ8¼Ä™á©/
+X	java:S125@"<This block of commented-out lines of code should be removed.(ºúÄ³8¼Ä™á©/
+
+java:S1104é"cMake OCTAL_UNIT_ROW_BITS_REQ a static final constant or non-public and provide accessors if needed.( ûëò8¼Ä™á©/
+x
+java:S1104Ê"UMake LEFT_NODE a static final constant or non-public and provide accessors if needed.(©ÿøÉúÿÿÿÿ8¼Ä™á©/
+p
+java:S3008f"SRename this field "INT_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ğ®¥8¼Ä™á©/
+w
+java:S1104²"YMake TRAFFIC_LOCAL a static final constant or non-public and provide accessors if needed.(Ü©ê8¼Ä™á©/
+x
+java:S1104ñ"UMake OCTAL_ADJ a static final constant or non-public and provide accessors if needed.(é¸Ò‘şÿÿÿÿ8¼Ä™á©/
+w
+java:S1104ã"ZMake OCTAL_UNIT_ROW a static final constant or non-public and provide accessors if needed.(ˆªñ8¼Ä™á©/
+s
+java:S1104÷"UMake NET_OCTAL a static final constant or non-public and provide accessors if needed.(ú‚ï8¼Ä™á©/
+U
+java:S1444Æ"7Make this "public static FAT_NUM_ADJ_CHILD" field final(Òƒ×â8¼Ä™á©/
+T
+java:S1444Û"6Make this "public static OCTAL_MID_NODE_2" field final(õ°‘Ò8¼Ä™á©/
+P
+java:S1444V"3Make this "public static MESH_COL_BITS" field final(à¶ïÜ8¼Ä™á©/
+z
+java:S1104Ğ"WMake BOTTOM_NODE a static final constant or non-public and provide accessors if needed.(ì‰¡øøÿÿÿÿ8¼Ä™á©/
+w
+java:S3008Ê"TRename this field "LEFT_NODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÿøÉúÿÿÿÿ8¼Ä™á©/
+Y
+java:S1444Ù"6Make this "public static OCTAL_MID_NODE_1" field final(—ı·¾ûÿÿÿÿ8¼Ä™á©/
+@
+java:S2386ñ"Make this member "protected".(é¸Ò‘şÿÿÿÿ8¼Ä™á©/
+Q
+java:S1444>"/Make this "public static NULL_FLIT" field final(ä¿ÁÛüÿÿÿÿ8¼Ä™á©/
+y
+java:S3008İ"\Rename this field "FAT_NUM_ADDR_BITS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¹”Q8¼Ä™á©/
+[
+java:S1444ß"8Make this "public static OCTAL_SWITCH_MID_2" field final(¾Íë›ùÿÿÿÿ8¼Ä™á©/
+m
+java:S3008"QRename this field "NET_WK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ó“D8¼Ä™á©/
+‰
+java:S1104Õ"kMake OCTAL_LOCAL_TRAFFIC_PROBABILITY a static final constant or non-public and provide accessors if needed.(¨ùö8¼Ä™á©/
+L
+java:S14449"/Make this "public static DATA_FLIT" field final(®àÂ÷8¼Ä™á©/
+P
+java:S1444*".Make this "public static OUT_FILE" field final(×µ…¶üÿÿÿÿ8¼Ä™á©/
+}
+java:S1104å"ZMake OCTAL_UNIT_COL a static final constant or non-public and provide accessors if needed.(é……Õşÿÿÿÿ8¼Ä™á©/
+u
+java:S3008E"SRename this field "MESH_ROW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷®å×ÿÿÿÿÿ8¼Ä™á©/
+u
+java:S3008€"XRename this field "NUM_ADDR_BITS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÀ‹%8¼Ä™á©/
+z
+java:S3008Æ"\Rename this field "FAT_NUM_ADJ_CHILD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òƒ×â8¼Ä™á©/
+y
+java:S11044"WMake HEADER_FLIT a static final constant or non-public and provide accessors if needed.(úñìşÿÿÿÿ8¼Ä™á©/
+‚
+java:S1104×"_Make OCTAL_NUM_ADDR_BITS a static final constant or non-public and provide accessors if needed.(ô†½İùÿÿÿÿ8¼Ä™á©/
+v
+java:S3008²"XRename this field "TRAFFIC_LOCAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü©ê8¼Ä™á©/
+y
+java:S3008“"VRename this field "FLIT_LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïïí‰ûÿÿÿÿ8¼Ä™á©/
+r
+java:S1104è"TMake NET_MESH a static final constant or non-public and provide accessors if needed.(ª²¬8¼Ä™á©/
+z
+java:S3008ã"WRename this field "NET_FAT_TREE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ˜Ğáøÿÿÿÿ8¼Ä™á©/
+y
+java:S1104"WMake WK_ADJ_NODE a static final constant or non-public and provide accessors if needed.(¤Ş‚£ıÿÿÿÿ8¼Ä™á©/
+€
+java:S3008œ"]Rename this field "MAX_MESSAGE_NUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‘Öüÿÿÿÿ8¼Ä™á©/
+{
+java:S1104["YMake MESH_ADJ_NODE a static final constant or non-public and provide accessors if needed.(««Íâıÿÿÿÿ8¼Ä™á©/
+y
+java:S1104ò"[Make NET_EX_FAT_TREE a static final constant or non-public and provide accessors if needed.(ì½›Ö8¼Ä™á©/
+Z
+java:S1444˜"7Make this "public static NUMBER_OF_IP_NODE" field final(ÄÔÏàùÿÿÿÿ8¼Ä™á©/
+ˆ
+java:S3008Õ"jRename this field "OCTAL_LOCAL_TRAFFIC_PROBABILITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ùö8¼Ä™á©/
+
+java:S3008‰"\Rename this field "AVG_INTER_ARRIVAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øœş¤ùÿÿÿÿ8¼Ä™á©/
+Y	java:S125Á"<This block of commented-out lines of code should be removed.(ıŒæ8¼Ä™á©/
+T
+java:S1444“"1Make this "public static FLIT_LENGTH" field final(Ïïí‰ûÿÿÿÿ8¼Ä™á©/
+
+java:S3008×"^Rename this field "OCTAL_NUM_ADDR_BITS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô†½İùÿÿÿÿ8¼Ä™á©/
+z
+java:S1104¡"\Make DEFAULT_VC_COUNT a static final constant or non-public and provide accessors if needed.(¶Ê¦‚8¼Ä™á©/
+[
+java:S1444"8Make this "public static AVG_MESSAGE_LENGTH" field final(œªîŞûÿÿÿÿ8¼Ä™á©/
+R
+java:S1444%"0Make this "public static PARAM_FILE" field final(¸©Éúúÿÿÿÿ8¼Ä™á©/
+|
+java:S3008±"^Rename this field "NUM_FLIT_PER_BUFFER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×’Ã8¼Ä™á©/
+y
+java:S3008"[Rename this field "NUMBER_OF_SWITCH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜‘òÎ8¼Ä™á©/

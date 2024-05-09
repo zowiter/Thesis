@@ -1,0 +1,27 @@
+
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(èã²8Øí‘á©/
+H
+java:S1168L"+Return an empty collection instead of null.(¥¹ï8Øí‘á©/
+‡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Şâú¯ÿÿÿÿÿ8Øí‘á©/
+Q
+java:S3740H"/Provide the parametrized type for this generic.(éşÜÎûÿÿÿÿ8Øí‘á©/
+E
+java:S1659i"#Declare "value" on a separate line.(¦ãï©şÿÿÿÿ8Øí‘á©/
+]	java:S125k"<This block of commented-out lines of code should be removed.(Ç¸‚Ÿÿÿÿÿÿ8÷‰Êõ­/
+Q
+java:S3740j"/Provide the parametrized type for this generic.(²„±”üÿÿÿÿ8Øí‘á©/
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(Û»Ìçùÿÿÿÿ8Øí‘á©/
+Q
+java:S3740"/Provide the parametrized type for this generic.(Şâú¯ÿÿÿÿÿ8Øí‘á©/
+Q
+java:S3740%"/Provide the parametrized type for this generic.(¡ò×Çùÿÿÿÿ8Øí‘á©/
+Q
+java:S3740j"/Provide the parametrized type for this generic.(²„±”üÿÿÿÿ8Øí‘á©/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”à¡úÿÿÿÿ8Øí‘á©/
+Q
+java:S3740w"/Provide the parametrized type for this generic.(ÁÔÀşÿÿÿÿ8Øí‘á©/
+‡
+java:S1149H"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(éşÜÎûÿÿÿÿ8Øí‘á©/
+‡
+java:S1149j"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(²„±”üÿÿÿÿ8Øí‘á©/

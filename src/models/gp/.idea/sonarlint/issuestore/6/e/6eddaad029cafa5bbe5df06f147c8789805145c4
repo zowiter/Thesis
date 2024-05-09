@@ -1,0 +1,201 @@
+
+O	java:S125"<This block of commented-out lines of code should be removed.(„¸‰·
+8
+java:S1659"$Declare "sIndex" on a separate line.(Íñ‹ı
+T	java:S125"<This block of commented-out lines of code should be removed.(İÑ¨Æùÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(³êÒ¨
+:
+java:S1659"!Declare "col" on a separate line.(Ùô‘ÿÿÿÿÿ
+3
+java:S1659"Declare "j" on a separate line.(‚ç…ı
+;
+java:S1659"'Declare "adjSwitch" on a separate line.(”ÁĞ
+C
+java:S3740"/Provide the parametrized type for this generic.(ÀîÄ¶
+>
+java:S1659"%Declare "unitCol" on a separate line.(ìÔæØÿÿÿÿÿ
+:
+java:S1659"&Declare "numLevel" on a separate line.(‚ç…ı
+O	java:S125"<This block of commented-out lines of code should be removed.(ÖÙ—Õ
+V
+java:S2184"BCast one of the operands of this addition operation to a "double".(¶²Œ
+;
+java:S1659"'Declare "numSwitch" on a separate line.(øŞ«ˆ
+^	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(èäˆ¿ùÿÿÿÿ
+F
+java:S1659"-Declare "nextSwitchIndex" on a separate line.(èÈóëüÿÿÿÿ
+=
+java:S1659"$Declare "sLevel" on a separate line.(èÈ±åúÿÿÿÿ
+X
+java:S1854"?Remove this useless assignment to local variable "noOfAdjNode".(‡¥ú¨şÿÿÿÿ
+y
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(»Ôüğ
+\
+java:S1854"CRemove this useless assignment to local variable "nextSwitchIndex".(è¦øŞıÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(ÒÅ¼¹
+T	java:S125"<This block of commented-out lines of code should be removed.(ç÷¬£üÿÿÿÿ
+Q
+java:S1854"=Remove this useless assignment to local variable "numSwitch".(öÚË÷
+@
+java:S1481"'Remove this unused "nd" local variable.(·±²úÿÿÿÿ
+=
+java:S1659")Declare "switchIndex" on a separate line.(‚ç…ı
+G
+java:S1481".Remove this unused "numSwitch" local variable.(Ùô‘ÿÿÿÿÿ
+;
+java:S1659"(Declare "adjUnitRow" on a separate line.(”öÑ6
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿçñÆùÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(„¸‰·
+O	java:S125"<This block of commented-out lines of code should be removed.(ÖÙ—Õ
+9
+java:S1659"%Declare "unitRow" on a separate line.(øŞ«ˆ
+D
+java:S1659"+Declare "switchAddress" on a separate line.(…˜‹¬ùÿÿÿÿ
+:
+java:S1659"!Declare "row" on a separate line.(Òçäûÿÿÿÿ
+>
+java:S1659"*Declare "parentSwitch" on a separate line.(è÷…±
+A
+java:S1659"(Declare "startIndex" on a separate line.(èÈ±åúÿÿÿÿ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï• ·
+H
+java:S1659"/Declare "minSwitchRightReq" on a separate line.(Òçäûÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(İÑ¨Æùÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(”Å¤Ø
+=
+java:S1659"$Declare "lIndex" on a separate line.(èÈ±åúÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(İÑ¨Æùÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(ÖÙ—Õ
+B
+java:S1659")Declare "nodeAddress" on a separate line.(…˜‹¬ùÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(‚ıÈ
+O	java:S125"<This block of commented-out lines of code should be removed.(ÖÙ—Õ
+8
+java:S1659"Declare "k" on a separate line.(…˜‹¬ùÿÿÿÿ
+=
+java:S1659")Declare "switchIndex" on a separate line.(‚ç…ı
+;
+java:S1659"'Declare "numSwitch" on a separate line.(‚ç…ı
+:
+java:S1659"!Declare "col" on a separate line.(Òçäûÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(„ü•
+O	java:S125"<This block of commented-out lines of code should be removed.(Â‘¡³
+c	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±²í]
+:
+java:S1659"!Declare "row" on a separate line.(Ùô‘ÿÿÿÿÿ
+:
+java:S1659"!Declare "col" on a separate line.(Òçäûÿÿÿÿ
+H
+java:S1659"/Declare "minSwitchRightReq" on a separate line.(Òçäûÿÿÿÿ
+@
+java:S1659"'Declare "numSwitch" on a separate line.(Ùô‘ÿÿÿÿÿ
+9
+java:S1659"%Declare "address" on a separate line.(‚ç…ı
+<
+java:S1659"#Declare "count" on a separate line.(ÄÄìûÿÿÿÿ
+@
+java:S1659"'Declare "numSwitch" on a separate line.(Ùô‘ÿÿÿÿÿ
+=
+java:S1659")Declare "unitAddress" on a separate line.(øŞ«ˆ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÆü
+A
+java:S1481"(Remove this unused "row" local variable.(Ùô‘ÿÿÿÿÿ
+>
+java:S1659"%Declare "address" on a separate line.(Ùô‘ÿÿÿÿÿ
+2
+java:S1659"Declare "k" on a separate line.(”öÑ6
+<
+java:S1659"(Declare "startIndex" on a separate line.(Íñ‹ı
+9
+java:S1659"%Declare "unitCol" on a separate line.(øŞ«ˆ
+O	java:S125"<This block of commented-out lines of code should be removed.(€í€Ö
+4
+java:S1659"!Declare "mid" on a separate line.(”öÑ6
+E
+java:S1481",Remove this unused "address" local variable.(Ùô‘ÿÿÿÿÿ
+C
+java:S3740"/Provide the parametrized type for this generic.(»Ôüğ
+B
+java:S1659")Declare "noOfAdjNode" on a separate line.(Ùô‘ÿÿÿÿÿ
+9
+java:S1659"%Declare "numUnit" on a separate line.(øŞ«ˆ
+=
+java:S1659"$Declare "rIndex" on a separate line.(èÈ±åúÿÿÿÿ
+?
+java:S1659"&Declare "numLevel" on a separate line.(èÈóëüÿÿÿÿ
+D
+java:S1481"+Remove this unused "factor" local variable.(™ºÆøÿÿÿÿ
+:
+java:S1659"!Declare "col" on a separate line.(Ùô‘ÿÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(ÖÙ—Õ
+=
+java:S1659"$Declare "sIndex" on a separate line.(èÈ±åúÿÿÿÿ
+:
+java:S1659"!Declare "row" on a separate line.(Ùô‘ÿÿÿÿÿ
+k
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(”èû¿şÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚‡ˆÅÿÿÿÿÿ
+8
+java:S1659"%Declare "adjUnit" on a separate line.(”öÑ6
+;
+java:S1659"'Declare "numSwitch" on a separate line.(‚ç…ı
+3
+java:S1659"Declare "j" on a separate line.(‚ç…ı
+H
+java:S3740"/Provide the parametrized type for this generic.(Ò–‹ùÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(„¸‰·
+V
+java:S2184"BCast one of the operands of this addition operation to a "double".(¶²Œ
+:
+java:S1659"&Declare "numLevel" on a separate line.(‚ç…ı
+>
+java:S1659"%Declare "address" on a separate line.(Ùô‘ÿÿÿÿÿ
+\
+java:S1854"CRemove this useless assignment to local variable "nextSwitchIndex".(è¦øŞıÿÿÿÿ
+M
+java:S1481"4Remove this unused "nextSwitchIndex" local variable.(èÈóëüÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(„¸‰·
+F
+java:S1481"-Remove this unused "wkSwitch" local variable.(Öò·§ÿÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ€ÿÅşÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(ª™ƒêúÿÿÿÿ
+4
+java:S2437" Remove this silly bit operation.(‚ş§
+y
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÀîÄ¶
+;
+java:S1659"(Declare "adjUnitCol" on a separate line.(”öÑ6
+I
+java:S1481"0Remove this unused "noOfAdjNode" local variable.(Ùô‘ÿÿÿÿÿ
+M
+java:S1481"4Remove this unused "nextSwitchIndex" local variable.(øí©‚úÿÿÿÿ
+>
+java:S1659"%Declare "unitRow" on a separate line.(ìÔæØÿÿÿÿÿ
+9
+java:S1659"%Declare "address" on a separate line.(‚ç…ı
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ùìÍ
+:
+java:S1659"!Declare "row" on a separate line.(Òçäûÿÿÿÿ
+8
+java:S1659"Declare "j" on a separate line.(…˜‹¬ùÿÿÿÿ
+I
+java:S1659"0Declare "minSwitchBottomReq" on a separate line.(Òçäûÿÿÿÿ
+f
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(‚çêÒ
+C
+java:S3740"/Provide the parametrized type for this generic.(«éïÁ
+8
+java:S1659"$Declare "sLevel" on a separate line.(Íñ‹ı
+H
+java:S1659"/Declare "numTopLevelSwitch" on a separate line.(èÈóëüÿÿÿÿ
+B
+java:S1659")Declare "noOfAdjNode" on a separate line.(Ùô‘ÿÿÿÿÿ
+I
+java:S1659"0Declare "minSwitchBottomReq" on a separate line.(Òçäûÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çŞÓûûÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¥¶Üùÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ±¾Ôùÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(ûÄë¸
+A
+java:S1481"(Remove this unused "col" local variable.(Ùô‘ÿÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(İÑ¨Æùÿÿÿÿ

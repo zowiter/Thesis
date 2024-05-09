@@ -1,0 +1,15 @@
+ Supply Thr. Norm        = 0.0781 flits/cycle/router 
+ Accept Thr. Norm        = 0.0733 f/c/r (m: 0.03, M:0.16)
+ Supply Thr.             = 7.81 f/c
+ Throughput              = 7.33 f/c (m: 3, M:16)
+ Average Distance        = 8
+ Messages generated      = 781
+ Messages received       = 733
+ Messages to inject      = 5
+ Messages on Escape      = 0
+ Total message latency   = 56.5116
+ Network message latency = 55.0505
+ Buffer message latency  = 1.46112
+ Maximum message latency = 125
+ Last Message cycle      = 1000
+***********************************************************

@@ -1,0 +1,22 @@
+
+                    // Topology
+                    topology = torus;
+                    k = 2;
+                    n = 4;
+
+                    // Routing
+                    routing_function = dim_order;
+
+                    // Flow control
+                    num_vcs = 4;
+                    vc_buf_size = 2;
+
+                    // Traffic
+                    traffic = neighbor;
+                    injection_rate = 0.35;
+                    packet_size = 10;
+
+                    max_samples = 5;
+                    sim_type = throughput;
+                    sample_period = 1000;
+                    warmup_periods = 0;

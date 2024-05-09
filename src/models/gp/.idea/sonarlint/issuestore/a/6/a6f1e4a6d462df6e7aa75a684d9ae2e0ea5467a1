@@ -1,0 +1,14 @@
+
+c
+java:S2095"MUse try-with-resources or close this "DataInputStream" in a "finally" clause.(Ë±†
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«Å¢øÿÿÿÿ
+r
+java:S3252"\Use static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_AS_NEEDED".(™ñü
+y
+java:S3252"^Use static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_AS_NEEDED".(çÈ¶‹ıÿÿÿÿ
+g
+java:S3252"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(½¦Ì¼şÿÿÿÿ
+Z
+java:S2147&"DCombine this catch with the one at line 35, which has the same body.(ï­£Ä
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(˜ŸÚá
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(˜ŸÚá

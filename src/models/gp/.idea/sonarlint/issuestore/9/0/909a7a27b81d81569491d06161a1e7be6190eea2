@@ -1,0 +1,56 @@
+
+J	java:S108")Either remove or fill this block of code.(®¤šØüÿÿÿÿ8„Ÿá©/
+x
+java:S1450 "VRemove the "network" field and declare it as a local variable in the relevant methods.(ú€‰ûÿÿÿÿÿ8„Ÿá©/
+\
+java:S3518Ù"9Make sure "run" can't be zero before doing this division.(µÈÇ½ÿÿÿÿÿ8„Ÿá©/
+L
+java:S1905¼")Remove this unnecessary cast to "double".(Ø»±¸şÿÿÿÿ8„Ÿá©/
+
+java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§ ÿ8„Ÿá©/
+I
+java:S1659`",Declare "outBufUtilNode" on a separate line.(ç¿æº8„Ÿá©/
+^	java:S125™"<This block of commented-out lines of code should be removed.(ç‚‚ìûÿÿÿÿ8¸Æ«â©/
+C
+java:S2129ğ" Remove this "String" constructor(‚åæÔûÿÿÿÿ8„Ÿá©/
+\
+java:S1854">Remove this useless assignment to local variable "jarDirpath".(åÕü¸8Ø×ıõ­/
+s	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚åæÔûÿÿÿÿ8„Ÿá©/
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(ÙÈ”•şÿÿÿÿ8„Ÿá©/
+J
+java:S1659`"-Declare "inBufUtilSwitch" on a separate line.(ç¿æº8„Ÿá©/
+K	java:S108–")Either remove or fill this block of code.(®¤šØüÿÿÿÿ8„Ÿá©/
+H
+java:S1659_"&Declare "linkUtil" on a separate line.(˜Î£­øÿÿÿÿ8„Ÿá©/
+^	java:S125Ÿ"<This block of commented-out lines of code should be removed.(ê‡Üåúÿÿÿÿ8¸Æ«â©/
+v
+java:S1450"YRemove the "netManager" field and declare it as a local variable in the relevant methods.(Â—§¥8„Ÿá©/
+G
+java:S1659`"*Declare "totalBufUtil" on a separate line.(ç¿æº8„Ÿá©/
+V	java:S106«"9Replace this use of System.out or System.err by a logger.(ıÎší8¸Æ«â©/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ùìÍ8„Ÿá©/
+j	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒñ¾Á8„Ÿá©/
+C
+java:S1659]"!Declare "run" on a separate line.(ƒÒÎ•ıÿÿÿÿ8„Ÿá©/
+I
+java:S1659b",Declare "packetReceived" on a separate line.(¹’Ñ¡8„Ÿá©/
+M
+java:S1481"/Remove this unused "jarDirpath" local variable.(åÕü¸8Ø×ıõ­/
+H
+java:S1659_"&Declare "avgDelay" on a separate line.(˜Î£­øÿÿÿÿ8„Ÿá©/
+J
+java:S1659_"(Declare "throughput" on a separate line.(˜Î£­øÿÿÿÿ8„Ÿá©/
+o
+java:S3776\"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ƒñ¾Á8„Ÿá©/
+K
+java:S1659`".Declare "outBufUtilSwitch" on a separate line.(ç¿æº8„Ÿá©/
+q
+java:S2095‘"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(œÍåıÿÿÿÿ8¸Æ«â©/
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(Œ°Â¿ÿÿÿÿÿ8„Ÿá©/
+q
+java:S2095‘"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(¥Ú§¿øÿÿÿÿ8„Ÿá©/
+]	java:S125*"<This block of commented-out lines of code should be removed.(”÷¥êÿÿÿÿÿ8„Ÿá©/
+J
+java:S1659_"(Declare "packetRate" on a separate line.(˜Î£­øÿÿÿÿ8„Ÿá©/
+Q
+java:S1659_"/Declare "avgPktNotProduced" on a separate line.(˜Î£­øÿÿÿÿ8„Ÿá©/

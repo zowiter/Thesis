@@ -1,0 +1,22 @@
+  Throughput[Net]0.42596666666666666
+  Throughput[Flits leaving network.unit.switches.Switch]	2.6054
+  Avg Packet Delay	59.591220699602
+  Link Utilization	0.5166527777777778
+  Buffer(network.unit.node.Node & network.unit.switches.Switch) Utilization	0.21732664930555556
+  Avg Packet Injection Rate	4.980833333333333
+  Avg Packet Not Produced	0.0
+  Input Buffer(network.unit.node.Node) Utilization	0.05324583333333333
+  Input Buffer(network.unit.switches.Switch) Utilization	0.21440916666666665
+  Output Buffer(network.unit.node.Node) Utilization	0.35815416666666666
+  Output Buffer(network.unit.switches.Switch) Utilization	0.22489479166666668
+  Avg Hop Count	6.816008291222825
+  Avg Packet Sent/Run	1416.5
+  Avg Packet Received/Run	1055.25
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+

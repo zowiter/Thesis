@@ -1,0 +1,83 @@
+
+M
+java:S2696“"6Make the enclosing method "static" or remove this set.(úˆå
+X
+java:S2130±"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(î‹Î¼
+L
+java:S2696l"6Make the enclosing method "static" or remove this set.(¹íşÅ
+<
+java:S3010T"&Remove this assignment of "paramFile".(•‰‘ß
+M
+java:S2696¡"6Make the enclosing method "static" or remove this set.(şãŞã
+R
+java:S2696Á"6Make the enclosing method "static" or remove this set.(Ú©şÿÿÿÿ
+M
+java:S2696™"6Make the enclosing method "static" or remove this set.(àÅğë
+>
+java:S3010X"#Remove this assignment of "curSet".( ÒŠ·øÿÿÿÿ
+M
+java:S2696­"6Make the enclosing method "static" or remove this set.(Œ„öó
+x
+java:S3008I"]Rename this field "warm_up_percentage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ú»Äøÿÿÿÿ
+8
+java:S1659‰"!Declare "val" on a separate line.(üÈ˜ü
+V	java:S1259"<This block of commented-out lines of code should be removed.(Ì›ÿâÿÿÿÿÿ
+R
+java:S2696©"6Make the enclosing method "static" or remove this set.(ÈÕÙšúÿÿÿÿ
+M
+java:S2696«"6Make the enclosing method "static" or remove this set.(óò®
+R
+java:S2696¶"6Make the enclosing method "static" or remove this set.(ÕÑ¢Ûúÿÿÿÿ
+i
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¹¤öô
+M
+java:S2696¥"6Make the enclosing method "static" or remove this set.(¿ùİ
+R
+java:S2696§"6Make the enclosing method "static" or remove this set.(ò¾ƒÜüÿÿÿÿ
+X
+java:S2130¯"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(“¬Ğ
+R
+java:S2696»"6Make the enclosing method "static" or remove this set.(Ÿ«À˜ÿÿÿÿÿ
+R
+java:S2696—"6Make the enclosing method "static" or remove this set.(ÂÖşÿÿÿÿ
+L
+java:S2696j"6Make the enclosing method "static" or remove this set.(­Ã’Ö
+R
+java:S2696´"6Make the enclosing method "static" or remove this set.(Øéßªùÿÿÿÿ
+|
+java:S1149†"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¹¤öô
+{
+java:S1149h"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ƒÍç–
+R
+java:S2696•"6Make the enclosing method "static" or remove this set.(ñû×¹ÿÿÿÿÿ
+M
+java:S2696¸"6Make the enclosing method "static" or remove this set.(°»ìº
+L
+java:S2696{"6Make the enclosing method "static" or remove this set.(¹íşÅ
+C
+java:S3010V"(Remove this assignment of "helpUtility".(¦ØœÁûÿÿÿÿ
+M
+java:S2696¯"6Make the enclosing method "static" or remove this set.(“¬Ğ
+X
+java:S2130¸"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(°»ìº
+R
+java:S2696Ÿ"6Make the enclosing method "static" or remove this set.(Ãà‚Ôúÿÿÿÿ
+M
+java:S2696±"6Make the enclosing method "static" or remove this set.(î‹Î¼
+M
+java:S2696‘"6Make the enclosing method "static" or remove this set.( Ã«†
+L
+java:S2696£"6Make the enclosing method "static" or remove this set.(‡úúF
+F
+java:S3740†"/Provide the parametrized type for this generic.(¹¤öô
+E
+java:S3740h"/Provide the parametrized type for this generic.(ƒÍç–
+L
+java:S2696|"6Make the enclosing method "static" or remove this set.(Ö…«
+M
+java:S2696"6Make the enclosing method "static" or remove this set.(‹€éº
+M
+java:S2696›"6Make the enclosing method "static" or remove this set.(ÂÒ³
+L
+java:S2696m"6Make the enclosing method "static" or remove this set.(Ö…«
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ùìÍ

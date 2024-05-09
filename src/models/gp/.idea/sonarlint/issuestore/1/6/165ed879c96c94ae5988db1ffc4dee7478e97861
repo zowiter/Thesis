@@ -1,0 +1,7 @@
+
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(«¶ξÿÿÿÿÿ
+b
+java:S2095"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(ύΤΪ
+Z
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(δ Ή€
+s	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ότ68­ίΰ©/

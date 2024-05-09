@@ -1,0 +1,2 @@
+main-class: gpNoCsimpp
+class-path: classes/
